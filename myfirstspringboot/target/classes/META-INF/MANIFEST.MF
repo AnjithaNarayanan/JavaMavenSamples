@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: anjit
+Build-Jdk: 11.0.2
+Implementation-Title: Spring Boot Web Thymeleaf Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring-thyme
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/myfirstspringboot
+Created-By: Maven Integration for Eclipse
+
